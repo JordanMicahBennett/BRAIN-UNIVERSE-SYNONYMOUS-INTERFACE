@@ -1,0 +1,20 @@
+﻿robot voice in audacity:
+echo(decay=0.2,delay=.004)
+repeat
+change pitch(-7)
+echo(decay=0.2,delay=.004)
+
+
+demon voice:
+duplicate audio
+change 0's pitch to -5
+change 1's pitch to -20
+
+
+demon voice enw
+import audio, call it main
+duplicate, call it -1Pitch, apply -1 semitone half step change pitch
+dduplicate main. call it -5Pitch. Apply -5 semitone half step change pitch, then apply default bass boost...enhanced gain controll by +3.
+apply echo to -1Pitch, 0.1 and 0.6. Then apply gverb @ default settings.
+
+

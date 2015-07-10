@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=customComponentList\ menuVisibility\ _xCoord\ _yCoord\ _MAXIMUM_BUTTONS\ BUTTON_PROXIMITY\ AXIS_PROXIMITY\ axisDirection\ axisLayoutType\ buttonListDirectory\ buttonWidth\ buttonHeight\ bgColour\ buttonOutlineColour\ buttonShapeType\ arcHeight\ arcDepth\ lastButtonChopValue
+comment0.target=BUTTON_DOCK_2(java.util.ArrayList,\ boolean,\ int,\ int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.awt.Color,\ java.awt.Color,\ java.lang.String,\ int,\ int,\ int)
+comment1.params=mEvent
+comment1.target=void\ mouseClickDefinition(java.awt.event.MouseEvent)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=mEvent
+comment3.target=void\ mouseMovedExtendedDefinition(java.awt.event.MouseEvent)
+comment4.params=mwEvent
+comment4.target=void\ mouseWheelRolledExtendedDefinition(java.awt.event.MouseWheelEvent)
+numComments=5

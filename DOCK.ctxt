@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=paintDirection\ colouri\ colourii\ targetWidth\ targetHeight\ leftColourSwingPercent
+comment0.target=DOCK(data.packages.UNICODE.UNICODE_FadePaintDirections,\ java.awt.Color,\ java.awt.Color,\ int,\ int,\ double)
+comment1.params=graphics\ graphics2d
+comment1.target=void\ drawMore(java.awt.Graphics,\ java.awt.Graphics2D)
+numComments=2

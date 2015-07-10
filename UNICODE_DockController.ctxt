@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_mainDock\ _buttonDock\ _guiPanel\ _incrementationRate\ _decrementationRate\ _animationHeightLimit\ dock_height\ _docIncrementationRate\ _docDecrementationRate\ dock_Y
+comment0.target=UNICODE_DockController(javax.swing.JPanel,\ BUTTON_DOCK_0,\ UNICODE_GuiPanel,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ toggleButtonDockAnimation()
+numComments=2
