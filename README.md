@@ -1,3 +1,7 @@
+![Alt text](https://raw.githubusercontent.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE/master/source-code/data/images/captures/5.png "default page")
+=============================
+
+
 
 
 ![Alt text](https://raw.githubusercontent.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE/master/source-code/data/images/captures/0.png "default page")
@@ -25,9 +29,9 @@ ALTERNATIVE NAMES
   ii.unicortex
 
 
-VIDEOS
+VIDEO(S)
 ===================================
-https://www.youtube.com/watch?v=LKzH_3EUnrc&list=UUImk8Kdd3PxzLYDeGoUWH9g
+BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE
 
 
 
