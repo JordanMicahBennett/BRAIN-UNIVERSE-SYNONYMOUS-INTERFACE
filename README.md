@@ -15,7 +15,7 @@
 =============================
 ![Alt text](https://raw.githubusercontent.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE/master/source-code/data/images/captures/3.png "default page")
 =============================
-http://illumium.tk/
+
 
 
 
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=p2Apn-gTzqU
 
 WEBSITE
 ===================================
-http://illumium.tk/
+http://illumium.yzi.me/
 
 
 
