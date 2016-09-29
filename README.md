@@ -28,19 +28,14 @@ An operating system interface modelled on the cosmos.
 
 ALTERNATIVE NAMES
 ===================================
-  i.illumium
-  ii.unicortex
+  i.god-interface
+  ii.controllable-cosmos
+  iii.illumium
 
 
 VIDEO(S)
 ===================================
 https://www.youtube.com/watch?v=p2Apn-gTzqU
-
-
-
-WEBSITE
-===================================
-http://illumium.yzi.me/
 
 
 
