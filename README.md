@@ -7,6 +7,7 @@
 
 
 
+
 ![Alt text](https://raw.githubusercontent.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE/master/source-code/data/images/captures/0.png "default page")
 =============================
 ![Alt text](https://raw.githubusercontent.com/JordanMicahBennett/BRAIN-UNIVERSE-SYNONYMOUS-INTERFACE/master/source-code/data/images/captures/1.png "default page")
