@@ -27,11 +27,18 @@ BRAIN UNIVERSE SYNONYMOUS INTERFACE
 An operating system interface modelled on the cosmos.
 
 
+POWERED BY MY JAVA GUI ENGINE
+===================================
+https://github.com/JordanMicahBennett/UNI_CODE-DEEP-UI-ENGINE
+
+
 ALTERNATIVE NAMES
 ===================================
-  i.god-interface
-  ii.controllable-cosmos
-  iii.illumium
+  i. god-interface
+  
+  ii. controllable-cosmos
+  
+  iii. illumium
 
 
 VIDEO(S)
